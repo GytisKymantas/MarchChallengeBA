@@ -1,7 +1,8 @@
 To start
-npm install
-npm run build
-npm run preview
+
+npm install </br>
+npm run build </br>
+npm run preview <br/>
 
 
 # React + Vite
